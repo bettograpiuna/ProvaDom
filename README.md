@@ -9,9 +9,9 @@
 
 **Um aplicativo simples e elegante para gerenciar suas tarefas do dia a dia**
 
-[🚀 Visualizar Projeto](#-visualizar-projeto) • 
-[✨ Recursos](#-recursos) • 
-[🛠️ Tecnologias](#-tecnologias) • 
+[🚀 Visualizar Projeto](#-visualizar-projeto) • 
+[✨ Recursos](#-recursos) • 
+[🛠️ Tecnologias](#-tecnologias) • 
 [📖 Como Usar](#-como-usar)
 
 </div>
@@ -22,7 +22,7 @@
 
 Acesse o projeto em ação clicando no link abaixo:
 
-### [`→ Abrir Aplicativo`][(https://seu-usuario.github.io/ProvaDom/)](https://bettograpiuna.github.io/ProvaDom/).
+### [→ Abrir Aplicativo](https://bettograpiuna.github.io/ProvaDom/)
 
 **Ou abra o arquivo `index.html` diretamente no seu navegador**
 
@@ -52,66 +52,5 @@ Acesse o projeto em ação clicando no link abaixo:
 
 ### 1️⃣ **Clone o Repositório**
 ```bash
-git clone [https://bettograpiuna.github.io/ProvaDom/](https://bettograpiuna.github.io/ProvaDom/)
+git clone [https://github.com/bettograpiuna/ProvaDom.git](https://github.com/bettograpiuna/ProvaDom.git)
 cd ProvaDom
-```
-
-### 2️⃣ **Abra no Navegador**
-Duplo-clique no arquivo `index.html` ou abra-o no seu navegador preferido.
-
-### 3️⃣ **Comece a Usar**
-- Digite uma tarefa no campo de entrada
-- Clique em "Adicionar Tarefa" ou pressione Enter
-- Suas tarefas aparecerão na lista abaixo
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-ProvaDom/
-├── index.html      # Estrutura HTML da aplicação
-├── style.css       # Estilos CSS
-├── script.js       # Lógica JavaScript
-└── README.md       # Este arquivo
-```
-
----
-
-## 🎨 Interface
-
-A aplicação apresenta:
-- **Container centralizado** com fundo limpo
-- **Input field** com placeholder orientativo
-- **Botão de ação** bem definido
-- **Lista dinâmica** para exibição de tarefas
-- **Design minimalista** focado em usabilidade
-
----
-
-## 💡 Dicas de Uso
-
-- Você pode adicionar quantas tarefas desejar
-- A interface foi otimizada para melhor experiência do usuário
-- O design responsivo se adapta a diferentes tamanhos de tela
-
----
-
-## 📝 Licença
-
-Este projeto é de código aberto e está disponível para uso livre.
-
----
-
-## 🤝 Contribuições
-
-Sugestões e melhorias são bem-vindas! Sinta-se à vontade para fazer um fork do projeto.
-
----
-
-<div align="center">
-
-
-[⬆ Voltar ao topo](#-organizador-de-tarefas)
-
-</div>
