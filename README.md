@@ -52,7 +52,7 @@ Acesse o projeto em ação clicando no link abaixo:
 
 ### 1️⃣ **Clone o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/ProvaDom.git
+git clone [https://github.com/seu-usuario/ProvaDom.git](https://bettograpiuna.github.io/ProvaDom/)
 cd ProvaDom
 ```
 
